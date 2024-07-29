@@ -29,21 +29,24 @@ img {
 
 .info {
     margin: 20px auto;
-    width: 250px;
+    width: 100%;
     text-align: center;
 }
 
 .info-header {
     color: hsl(218, 44%, 22%);
-    font-weight: 700;
+    font-weight: 900;
     font-size: 20px;
-    margin-bottom: 20px;
+    width: 80%;
+    margin: 0 auto 20px;
 }
 
 .info-content {
     color: hsl(220, 15%, 55%);
     font-weight: 400;
     font-size: 15px;
+    margin: 0 auto;
+    width: 90%;
 }
 
 .attribution {
